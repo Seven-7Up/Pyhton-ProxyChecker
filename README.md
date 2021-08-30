@@ -3,7 +3,7 @@
 ## About:
 
 ![Python Versions](https://img.shields.io/badge/python-3.7|3.8|3.9-yellow.svg)
-![GitHub branch checks state](https://img.shields.io/github/checks-status/Seven-7Up/python-proxyChecker/master?color=green&logo=master&style=flat-square)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/Seven-7Up/python-proxyChecker/master?color=green&logo=master)
 
 ![ScreenShot](ScreenShot/Screenshot_2021-08-25_16-47-11.png)
 ![ScreenShot](ScreenShot/Screenshot_2021-08-27_06-47-16.png)
